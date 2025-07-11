@@ -1,4 +1,4 @@
-# Vim Usage Guide for Windows
+# Vim Usage Guide
 
 ## Introduction
 
